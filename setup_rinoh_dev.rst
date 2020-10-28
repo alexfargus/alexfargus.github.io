@@ -18,6 +18,7 @@ Python dependencies
 >  pip install docutils recommonmark 
 >  pip install rinoh-typeface-texgyrecursor rinoh-typeface-texgyreheros rinoh-typeface-texgyrepagella rinoh-typeface-dejavuserif
 >  pip install bump2version restview tox twine pytest pytest-assume pytest-console-scripts tox-gh-actions wheel pytest-xdist
+>  pip install doc8
 
 
 Clone the repository
